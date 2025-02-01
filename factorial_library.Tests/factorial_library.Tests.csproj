@@ -20,4 +20,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\devops_demo\factorial_library\factorial_library.csproj" />
+  </ItemGroup>
+
 </Project>
