@@ -6,6 +6,6 @@ public class FactorialLibraryTest
     public void Test1()
     {
         var result = FactorialService.factorial_function(0);
-        Assert.Equal(1, result);
+        Assert.Equal(1, result)
     }
 }
